@@ -1,0 +1,5 @@
+/*
+  Okay for union add all the numbers to a SET and then add them to the result 
+  For intersection add all from the one and compare with the other.
+  
+*/
